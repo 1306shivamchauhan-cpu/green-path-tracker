@@ -1,0 +1,53 @@
+﻿        <div class="island-frame">
+          <div class="stage-scene iso-scene" id="stageScene" aria-label="Isometric eco village">
+            <div class="map-label request-label">Request</div>
+            <div class="map-label research-label">Research</div>
+            <div class="map-label timer-label">25M</div>
+            <div class="map-label harvest-label">Full</div>
+            <div class="map-label forest-label">Build Your Forest</div>
+
+            <div class="iso-ground">
+              <div class="iso-grid">
+                <span></span><span></span><span></span><span></span><span></span><span></span>
+                <span></span><span></span><span></span><span></span><span></span><span></span>
+                <span></span><span></span><span></span><span></span><span></span><span></span>
+                <span></span><span></span><span></span><span></span><span></span><span></span>
+                <span></span><span></span><span></span><span></span><span></span><span></span>
+                <span></span><span></span><span></span><span></span><span></span><span></span>
+              </div>
+              <div class="fence fence-top"></div>
+              <div class="fence fence-bottom"></div>
+              <div class="fence fence-left"></div>
+              <div class="fence fence-right"></div>
+            </div>
+
+            <div class="iso-object townhall">
+              <span class="roof-cap"></span>
+            </div>
+            <div class="iso-object hut hut-a"></div>
+            <div class="iso-object hut hut-b"></div>
+            <div class="iso-object lab"></div>
+            <div class="iso-object store store-a"><span>Full</span></div>
+            <div class="iso-object store store-b"><span>Full</span></div>
+            <div class="iso-object camp"></div>
+            <div class="iso-object tower tower-a"><i></i></div>
+            <div class="iso-object tower tower-b"><i></i></div>
+            <div class="iso-object tower tower-c"><i></i></div>
+
+            <div class="pine tree-a"></div>
+            <div class="pine tree-b"></div>
+            <div class="pine tree-c"></div>
+            <div class="pine tree-d"></div>
+            <div class="pine tree-e"></div>
+            <div class="pine tree-f"></div>
+            <div class="round-tree round-a"></div>
+            <div class="round-tree round-b"></div>
+
+            <div class="resource coin-a"></div>
+            <div class="resource coin-b"></div>
+            <div class="resource coin-c"></div>
+            <div class="resource fruit-a"></div>
+            <div class="resource fruit-b"></div>
+          </div>
+        </div>
+
