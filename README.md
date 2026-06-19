@@ -6,7 +6,7 @@ Welcome to the Green Path Tracker! This application helps you monitor your carbo
 
 **[Click here to open the Green Path Tracker App!](https://1306shivamchauhan-cpu.github.io/green-path-tracker/)**
 
-*(Note: If the link returns a 404 error, you may need to enable GitHub Pages in your repository settings. Go to Settings > Pages > Select 'master' or 'main' branch > Save).*
+
 
 ## Features
 - **Carbon Footprint Calculator**: Estimate your weekly carbon emissions.
